@@ -6,11 +6,13 @@ Bem-vindo ao repositório que abriga uma coleção de projetos desenvolvidos em 
 
 ### 1. Tradutor
 
-O projeto de tradutor utiliza a API de tradução para realizar traduções de textos. Ele é um exemplo inicial para demonstrar a integração com APIs em um ambiente JavaScript.
+O projeto de tradutor utiliza a API de tradução para realizar traduções de textos. Seu objetivo é a tradução de textos de um idioma para outro e uma interface simples para entrada de texto e exibição de resultados.
 
-Funcionalidades do projeto:
-- Tradução de textos de um idioma para outro.
-- Interface simples para entrada de texto e exibição de resultados.
+![Imagem 1](1-tradutor-js/assets/img/img1.JPG)
 
+### 2. CEP API
 
+Esse projeto busca consumir uma API de CEP (ViaCEP) em uma tela de cadastro, onde o usuário só irá digitar seu CEP e a API já irá completar todo Endereço (Endereço, Bairro, Cidade e Estado).
+
+![Imagem 2](2-cep-api/assets/img/img2.JPG)
 
