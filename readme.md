@@ -18,6 +18,7 @@ Esse projeto busca consumir uma API de CEP (ViaCEP) em uma tela de cadastro, ond
 
 ### 3. Clima
 
-Aplicação de Clima com OpenWeather API
+Aplicação de Clima com OpenWeather API para recuperar o Clima, Temperatura, Tempo, Umidade e Velociade do Vento.
+Foi também utilizado a FlagsApi para recuperar as Bandeiras de cada país.
 
 ![Imagem 3](3-clima/assets/img/img3.JPG)
