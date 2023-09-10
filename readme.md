@@ -6,7 +6,7 @@ Bem-vindo ao repositório que abriga uma coleção de projetos desenvolvidos em 
 
 ### 1. Tradutor
 
-O projeto de tradutor utiliza a API de tradução para realizar traduções de textos. Seu objetivo é a tradução de textos de um idioma para outro e uma interface simples para entrada de texto e exibição de resultados.
+O projeto de tradutor utiliza a API de tradução (MyMemory API) para realizar traduções de textos. Seu objetivo é a tradução de textos de um idioma para outro e uma interface simples para entrada de texto e exibição de resultados.
 
 ![Imagem 1](1-tradutor-js/assets/img/img1.JPG)
 
@@ -16,3 +16,8 @@ Esse projeto busca consumir uma API de CEP (ViaCEP) em uma tela de cadastro, ond
 
 ![Imagem 2](2-cep-api/assets/img/img2.JPG)
 
+### 3. Clima
+
+Aplicação de Clima com OpenWeather API
+
+![Imagem 3](3-clima/assets/img/img3.JPG)
