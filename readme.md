@@ -22,3 +22,9 @@ Aplicação de Clima com OpenWeather API para recuperar o Clima, Temperatura, Te
 Foi também utilizado a FlagsApi para recuperar as Bandeiras de cada país.
 
 ![Imagem 3](3-clima/assets/img/img3.JPG)
+
+### 4. Chat GPT
+
+Consumindo API do Chat GPT com interface simples retornando as respostas.
+
+![Imagem 4](4-chat-gpt-api/assets/img/img4.JPG)
